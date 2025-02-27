@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Transaction #",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "ltSbr-y3MkSg2liTpUrN5Q",
+  "Reference": "Mqd1eipLZ0OhG93wKM6i1Q/ltSbr-y3MkSg2liTpUrN5Q",
+  "ParentRef": "Mqd1eipLZ0OhG93wKM6i1Q/3OWD5tR8z0i2Vvx2kVq1gw",
+  "Created": "2025-02-27T05:24:30.2018612Z",
+  "Updated": "2025-02-27T05:24:30.2018612Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

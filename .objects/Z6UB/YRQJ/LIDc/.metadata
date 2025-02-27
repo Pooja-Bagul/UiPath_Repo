@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Amazon.in  laptop",
+  "Type": "Screen",
+  "Id": "LIDc-r8gV0-d0J1eCxWo5A",
+  "Reference": "Mqd1eipLZ0OhG93wKM6i1Q/LIDc-r8gV0-d0J1eCxWo5A",
+  "ParentRef": "Mqd1eipLZ0OhG93wKM6i1Q/YRQJHXMZyEuq99TZN8iHew",
+  "Created": "2025-02-27T05:59:36.625217Z",
+  "Updated": "2025-02-27T05:59:36.625217Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

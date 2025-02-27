@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge Amazon.in  laptop",
+  "Type": "App",
+  "Id": "Z6UBSezYkkukR-I6eN-37w",
+  "Reference": "Mqd1eipLZ0OhG93wKM6i1Q/Z6UBSezYkkukR-I6eN-37w",
+  "Created": "2025-02-27T05:59:36.5479612Z",
+  "Updated": "2025-02-27T05:59:36.5479612Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
